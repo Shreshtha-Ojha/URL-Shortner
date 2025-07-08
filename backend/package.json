@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend for the URL shortner",
   "license": "ISC",
-  "author": "UjjwalBaranwal",
+  "author": "ShreshthaOjha",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
